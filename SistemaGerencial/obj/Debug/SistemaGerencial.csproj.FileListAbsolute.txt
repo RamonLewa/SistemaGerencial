@@ -1,0 +1,10 @@
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.exe.config
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.exe
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.pdb
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Properties.Resources.resources
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csproj.GenerateResource.cache
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.exe
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.pdb
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Menu.resources

@@ -8,3 +8,11 @@ C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaG
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.exe
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.pdb
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Menu.resources
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaG.42B87CDA.Up2Date
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Fornecedores.resources
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Estoque.resources

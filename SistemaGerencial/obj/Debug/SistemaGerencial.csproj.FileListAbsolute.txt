@@ -16,3 +16,4 @@ C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\System.T
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaG.42B87CDA.Up2Date
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Fornecedores.resources
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Estoque.resources
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Splash.resources

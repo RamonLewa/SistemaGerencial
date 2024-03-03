@@ -24,9 +24,7 @@ namespace SistemaGerencial
             if (panel2.Width >= 599) 
             {
                 timer1.Stop();
-                Menu menu = new Menu();
-                this.Hide();
-                menu.Show();
+                this.Close();
             }
         }
     }

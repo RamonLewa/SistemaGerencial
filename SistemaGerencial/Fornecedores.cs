@@ -19,21 +19,5 @@ namespace SistemaGerencial
         {
             InitializeComponent();
         }
-
-        private void btnConectar_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (FbConnection connection = new FbConnection(connectionString))
-                {
-                    connection.Open();
-                    MessageBox.Show("Conexão realizada com sucesso!");
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Ocorreu um erro: " + ex.Message);
-            }
-        }
     }
 }

@@ -33,15 +33,15 @@
             this.stripArquivos = new System.Windows.Forms.ToolStripMenuItem();
             this.stripArquivosClientes = new System.Windows.Forms.ToolStripMenuItem();
             this.stripArquivosEstoque = new System.Windows.Forms.ToolStripMenuItem();
+            this.stripArquivosFornecedores = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.stripArquivosSair = new System.Windows.Forms.ToolStripMenuItem();
             this.lblClientes = new System.Windows.Forms.Label();
             this.lblEstoque = new System.Windows.Forms.Label();
+            this.lblFornecedores = new System.Windows.Forms.Label();
             this.btnFornecedores = new System.Windows.Forms.Button();
             this.btnEstoque = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.lblFornecedores = new System.Windows.Forms.Label();
-            this.stripArquivosFornecedores = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -73,26 +73,33 @@
             // stripArquivosClientes
             // 
             this.stripArquivosClientes.Name = "stripArquivosClientes";
-            this.stripArquivosClientes.Size = new System.Drawing.Size(180, 22);
+            this.stripArquivosClientes.Size = new System.Drawing.Size(145, 22);
             this.stripArquivosClientes.Text = "Clientes";
             this.stripArquivosClientes.Click += new System.EventHandler(this.stripArquivosClientes_Click);
             // 
             // stripArquivosEstoque
             // 
             this.stripArquivosEstoque.Name = "stripArquivosEstoque";
-            this.stripArquivosEstoque.Size = new System.Drawing.Size(180, 22);
+            this.stripArquivosEstoque.Size = new System.Drawing.Size(145, 22);
             this.stripArquivosEstoque.Text = "Estoque";
             this.stripArquivosEstoque.Click += new System.EventHandler(this.stripArquivosEstoque_Click);
+            // 
+            // stripArquivosFornecedores
+            // 
+            this.stripArquivosFornecedores.Name = "stripArquivosFornecedores";
+            this.stripArquivosFornecedores.Size = new System.Drawing.Size(145, 22);
+            this.stripArquivosFornecedores.Text = "Fornecedores";
+            this.stripArquivosFornecedores.Click += new System.EventHandler(this.stripArquivosFornecedores_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(142, 6);
             // 
             // stripArquivosSair
             // 
             this.stripArquivosSair.Name = "stripArquivosSair";
-            this.stripArquivosSair.Size = new System.Drawing.Size(180, 22);
+            this.stripArquivosSair.Size = new System.Drawing.Size(145, 22);
             this.stripArquivosSair.Text = "Sair";
             this.stripArquivosSair.Click += new System.EventHandler(this.stripArquivosSair_Click);
             // 
@@ -115,6 +122,16 @@
             this.lblEstoque.Size = new System.Drawing.Size(57, 16);
             this.lblEstoque.TabIndex = 4;
             this.lblEstoque.Text = "Estoque";
+            // 
+            // lblFornecedores
+            // 
+            this.lblFornecedores.AutoSize = true;
+            this.lblFornecedores.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFornecedores.Location = new System.Drawing.Point(222, 114);
+            this.lblFornecedores.Name = "lblFornecedores";
+            this.lblFornecedores.Size = new System.Drawing.Size(92, 16);
+            this.lblFornecedores.TabIndex = 6;
+            this.lblFornecedores.Text = "Fornecedores";
             // 
             // btnFornecedores
             // 
@@ -152,27 +169,11 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // lblFornecedores
-            // 
-            this.lblFornecedores.AutoSize = true;
-            this.lblFornecedores.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFornecedores.Location = new System.Drawing.Point(222, 114);
-            this.lblFornecedores.Name = "lblFornecedores";
-            this.lblFornecedores.Size = new System.Drawing.Size(92, 16);
-            this.lblFornecedores.TabIndex = 6;
-            this.lblFornecedores.Text = "Fornecedores";
-            // 
-            // stripArquivosFornecedores
-            // 
-            this.stripArquivosFornecedores.Name = "stripArquivosFornecedores";
-            this.stripArquivosFornecedores.Size = new System.Drawing.Size(180, 22);
-            this.stripArquivosFornecedores.Text = "Fornecedores";
-            this.stripArquivosFornecedores.Click += new System.EventHandler(this.stripArquivosFornecedores_Click);
-            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(238)))), ((int)(((byte)(238)))));
             this.ClientSize = new System.Drawing.Size(1904, 151);
             this.Controls.Add(this.lblFornecedores);

@@ -17,3 +17,4 @@ C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaG
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Fornecedores.resources
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Estoque.resources
 C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Splash.resources
+C:\Users\ramon\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Clientes.resources
